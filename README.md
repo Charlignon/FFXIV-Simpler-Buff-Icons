@@ -28,4 +28,5 @@ Simpler Buff Icons is a mod that replace common raid buff effect icons (such as 
 8. @ me on Twitter to tell me how much you love (or hate) this mod, and share with your friends :D
 
 *This is to prevent the icons to be loaded by the game before the mod is installed. Once an icon is loaded, it stay in memory for basically your whole game session. Same if you want to disable the mod: if the replacement icons were loaded once, they'll keep being displayed.
+
 **To force reload all the game icons, you need to either call the Aesthetician and start the character customisation screen then leave, or restart your game entirely. 
