@@ -3,7 +3,7 @@
   "Description": "Enabled or disable Simpler Icons for buff coming from DPS classes",
   "Priority": 1,
   "Type": "Multi",
-  "DefaultSettings": 15,
+  "DefaultSettings": 255,
   "Options": [
     {
       "Name": "Simpler buff icons for BRD",
