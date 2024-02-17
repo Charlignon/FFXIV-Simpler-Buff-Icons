@@ -5,9 +5,10 @@ Simpler Buff Icons is a mod that replace common raid buff effect icons (such as 
 
 ![Attack up](https://github.com/charlignon/FFXIV-Simpler-Buff-Icons/blob/main/src/assets/png/ATT_UP.png)
 ![Critique up](https://github.com/charlignon/FFXIV-Simpler-Buff-Icons/blob/main/src/assets/png/CRIT_UP.png)
-![Defense up](https://github.com/charlignon/FFXIV-Simpler-Buff-Icons/blob/main/src/assets/png/DEF_UP.png) 
 ![Healing over time](https://github.com/charlignon/FFXIV-Simpler-Buff-Icons/blob/main/src/assets/png/HoT.png) 
 ![Shield](https://github.com/charlignon/FFXIV-Simpler-Buff-Icons/blob/main/src/assets/png/SHIELD.png)
+![Defense up](https://github.com/charlignon/FFXIV-Simpler-Buff-Icons/blob/main/src/assets/png/DEF_UP.png) 
+
 
 ## Requirements
 
@@ -18,7 +19,7 @@ Simpler Buff Icons is a mod that replace common raid buff effect icons (such as 
 
 1. Download the latest version of this mod from [this repo](https://github.com/Charlignon/FFXIV-Simpler-Buff-Icons/tree/main/build) or from [XIV Mod Archive](https://www.xivmodarchive.com/modid/99380)
 2. Start your game with Dalamud enabled. ⚠️ Stay on the title screen !*
-4. Open you Penumbra settings, go to the Mods tab, then clik on the import button
+4. Open you Penumbra settings, go to the Mods tab, then click on the import button
 5. Select `Simpler Buff Icons.pmp` and validate
    - If you downloaded the folder and not the archive, you need to move it to your mod folder, then use Rediscover Mods in Penumbra
 6. Set the mod priority. If this is your only mod that replaces icons, 0 is fine
@@ -27,6 +28,6 @@ Simpler Buff Icons is a mod that replace common raid buff effect icons (such as 
    - In some cases, the changes made may not apply immediately in-game. This is expected, you will need to force reload**
 8. @ me on Twitter to tell me how much you love (or hate) this mod, and share with your friends :D
 
-*This is to prevent the icons to be loaded by the game before the mod is installed. Once an icon is loaded, it stay in memory for basically your whole game session. Same if you want to disable the mod: if the replacement icons were loaded once, they'll keep being displayed.
+*_This is to prevent the icons to be loaded by the game before the mod is installed. Once an icon is loaded, it stay in memory for basically your whole game session. Same if you want to disable the mod: if the replacement icons were loaded once, they'll keep being displayed._
 
-**To force reload all the game icons, you need to either call the Aesthetician and start the character customisation screen then leave, or restart your game entirely. 
+**_To force reload all the game icons, you need to either call the Aesthetician and start the character customisation screen then leave, or restart your game entirely. _
