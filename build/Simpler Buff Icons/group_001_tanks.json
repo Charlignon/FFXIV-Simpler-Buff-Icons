@@ -6,6 +6,31 @@
   "DefaultSettings": 15,
   "Options": [
     {
+      "Name": "Simpler buff icons for DRK",
+      "Description": "",
+      "Priority": 1,
+      "Files": {
+        "ui/icon/013000/013123_hr1.tex": "tanks\\simpler buff icons for drk\\ui\\icon\\013000\\013123_hr1.tex",
+        "ui/icon/013000/013118_hr1.tex": "tanks\\simpler buff icons for drk\\ui\\icon\\013000\\013118_hr1.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Simpler buff icons for GNB",
+      "Description": "",
+      "Priority": 1,
+      "Files": {
+        "ui/icon/013000/013605_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\013000\\013605_hr1.tex",
+        "ui/icon/013000/013614_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\013000\\013614_hr1.tex",
+        "ui/icon/013000/013610_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\013000\\013610_hr1.tex",
+        "ui/icon/013000/013615_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\013000\\013615_hr1.tex",
+        "ui/icon/013000/013616_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\013000\\013616_hr1.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
       "Name": "Simpler buff icons for PLD",
       "Description": "",
       "Priority": 1,
@@ -22,36 +47,12 @@
     {
       "Name": "Simpler buff icons for WAR",
       "Description": "",
-      "Priority": 2,
+      "Priority": 1,
       "Files": {
         "ui/icon/012000/012557_hr1.tex": "tanks\\simpler buff icons for war\\ui\\icon\\012000\\012557_hr1.tex",
+        "ui/icon/012000/012567_hr1.tex": "tanks\\simpler buff icons for war\\ui\\icon\\012000\\012567_hr1.tex",
         "ui/icon/012000/012563_hr1.tex": "tanks\\simpler buff icons for war\\ui\\icon\\012000\\012563_hr1.tex",
         "ui/icon/012000/012564_hr1.tex": "tanks\\simpler buff icons for war\\ui\\icon\\012000\\012564_hr1.tex"
-      },
-      "FileSwaps": {},
-      "Manipulations": []
-    },
-    {
-      "Name": "Simpler buff icons for DRK",
-      "Description": "",
-      "Priority": 3,
-      "Files": {
-        "ui/icon/013000/013123_hr1.tex": "tanks\\simpler buff icons for drk\\ui\\icon\\013000\\013123_hr1.tex",
-        "ui/icon/013000/013118_hr1.tex": "tanks\\simpler buff icons for drk\\ui\\icon\\013000\\013118_hr1.tex"
-      },
-      "FileSwaps": {},
-      "Manipulations": []
-    },
-    {
-      "Name": "Simpler buff icons for GNB",
-      "Description": "",
-      "Priority": 4,
-      "Files": {
-        "ui/icon/013000/013605_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\013000\\013605_hr1.tex",
-        "ui/icon/013000/013614_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\013000\\013614_hr1.tex",
-        "ui/icon/013000/013610_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\013000\\013610_hr1.tex",
-        "ui/icon/013000/013615_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\013000\\013615_hr1.tex",
-        "ui/icon/013000/013616_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\013000\\013616_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []

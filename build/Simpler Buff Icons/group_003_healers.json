@@ -6,15 +6,28 @@
   "DefaultSettings": 15,
   "Options": [
     {
-      "Name": "Simpler buff icons for WHM",
+      "Name": "Simpler buff icons for AST",
       "Description": "",
-      "Priority": 0,
+      "Priority": 1,
       "Files": {
-        "ui/icon/012000/012626_hr1.tex": "healers\\simpler buff icons for whm\\ui\\icon\\012000\\012626_hr1.tex",
-        "ui/icon/012000/012629_hr1.tex": "healers\\simpler buff icons for whm\\ui\\icon\\012000\\012629_hr1.tex",
-        "ui/icon/012000/012632_hr1.tex": "healers\\simpler buff icons for whm\\ui\\icon\\012000\\012632_hr1.tex",
-        "ui/icon/012000/012633_hr1.tex": "healers\\simpler buff icons for whm\\ui\\icon\\012000\\012633_hr1.tex",
-        "ui/icon/012000/012638_hr1.tex": "healers\\simpler buff icons for whm\\ui\\icon\\012000\\012638_hr1.tex"
+        "ui/icon/013000/013204_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013204_hr1.tex",
+        "ui/icon/013000/013205_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013205_hr1.tex",
+        "ui/icon/013000/013206_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013206_hr1.tex",
+        "ui/icon/013000/013207_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013207_hr1.tex",
+        "ui/icon/013000/013208_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013208_hr1.tex",
+        "ui/icon/013000/013209_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013209_hr1.tex",
+        "ui/icon/013000/013229_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013229_hr1.tex",
+        "ui/icon/013000/013230_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013230_hr1.tex",
+        "ui/icon/013000/013231_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013231_hr1.tex",
+        "ui/icon/013000/013232_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013232_hr1.tex",
+        "ui/icon/013000/013233_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013233_hr1.tex",
+        "ui/icon/013000/013234_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013234_hr1.tex",
+        "ui/icon/013000/013245_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013245_hr1.tex",
+        "ui/icon/013000/013226_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013226_hr1.tex",
+        "ui/icon/013000/013225_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013225_hr1.tex",
+        "ui/icon/013000/013255_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013255_hr1.tex",
+        "ui/icon/013000/013262_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013262_hr1.tex",
+        "ui/icon/013000/013250_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013250_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -26,24 +39,12 @@
       "Files": {
         "ui/icon/012000/012803_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\012000\\012803_hr1.tex",
         "ui/icon/012000/012816_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\012000\\012816_hr1.tex",
-        "ui/icon/013000/013204_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\013000\\013204_hr1.tex",
-        "ui/icon/013000/013205_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\013000\\013205_hr1.tex",
-        "ui/icon/013000/013206_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\013000\\013206_hr1.tex",
-        "ui/icon/013000/013207_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\013000\\013207_hr1.tex",
-        "ui/icon/013000/013208_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\013000\\013208_hr1.tex",
-        "ui/icon/013000/013209_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\013000\\013209_hr1.tex",
-        "ui/icon/013000/013229_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\013000\\013229_hr1.tex",
-        "ui/icon/013000/013230_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\013000\\013230_hr1.tex",
-        "ui/icon/013000/013231_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\013000\\013231_hr1.tex",
-        "ui/icon/013000/013232_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\013000\\013232_hr1.tex",
-        "ui/icon/013000/013233_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\013000\\013233_hr1.tex",
-        "ui/icon/013000/013234_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\013000\\013234_hr1.tex",
-        "ui/icon/013000/013245_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\013000\\013245_hr1.tex",
         "ui/icon/012000/012826_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\012000\\012826_hr1.tex",
         "ui/icon/012000/012846_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\012000\\012846_hr1.tex",
         "ui/icon/012000/012801_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\012000\\012801_hr1.tex",
         "ui/icon/012000/012814_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\012000\\012814_hr1.tex",
         "ui/icon/012000/012810_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\012000\\012810_hr1.tex",
+        "ui/icon/014000/014907_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\014000\\014907_hr1.tex",
         "ui/icon/012000/012848_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\012000\\012848_hr1.tex",
         "ui/icon/012000/012815_hr1.tex": "healers\\simpler buff icons for sch\\ui\\icon\\012000\\012815_hr1.tex"
       },
@@ -51,27 +52,11 @@
       "Manipulations": []
     },
     {
-      "Name": "Simpler buff icons for AST",
-      "Description": "",
-      "Priority": 2,
-      "Files": {
-        "ui/icon/013000/013226_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013226_hr1.tex",
-        "ui/icon/013000/013225_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013225_hr1.tex",
-        "ui/icon/013000/013255_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013255_hr1.tex",
-        "ui/icon/013000/013262_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013262_hr1.tex",
-        "ui/icon/013000/013250_hr1.tex": "healers\\simpler buff icons for ast\\ui\\icon\\013000\\013250_hr1.tex"
-      },
-      "FileSwaps": {},
-      "Manipulations": []
-    },
-    {
       "Name": "Simpler buff icons for SGE",
       "Description": "",
-      "Priority": 3,
+      "Priority": 1,
       "Files": {
-        "ui/icon/012000/012935_hr1.tex": "healers\\simpler buff icons for sge\\ui\\icon\\012000\\012935_hr1.tex",
         "ui/icon/012000/012963_hr1.tex": "healers\\simpler buff icons for sge\\ui\\icon\\012000\\012963_hr1.tex",
-        "ui/icon/012000/012964_hr1.tex": "healers\\simpler buff icons for sge\\ui\\icon\\012000\\012964_hr1.tex",
         "ui/icon/012000/012965_hr1.tex": "healers\\simpler buff icons for sge\\ui\\icon\\012000\\012965_hr1.tex",
         "ui/icon/012000/012967_hr1.tex": "healers\\simpler buff icons for sge\\ui\\icon\\012000\\012967_hr1.tex",
         "ui/icon/012000/012971_hr1.tex": "healers\\simpler buff icons for sge\\ui\\icon\\012000\\012971_hr1.tex",
@@ -80,6 +65,21 @@
         "ui/icon/012000/012970_hr1.tex": "healers\\simpler buff icons for sge\\ui\\icon\\012000\\012970_hr1.tex",
         "ui/icon/012000/012958_hr1.tex": "healers\\simpler buff icons for sge\\ui\\icon\\012000\\012958_hr1.tex",
         "ui/icon/012000/012959_hr1.tex": "healers\\simpler buff icons for sge\\ui\\icon\\012000\\012959_hr1.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Simpler buff icons for WHM",
+      "Description": "",
+      "Priority": 1,
+      "Files": {
+        "ui/icon/012000/012626_hr1.tex": "healers\\simpler buff icons for whm\\ui\\icon\\012000\\012626_hr1.tex",
+        "ui/icon/010000/010413_hr1.tex": "healers\\simpler buff icons for whm\\ui\\icon\\010000\\010413_hr1.tex",
+        "ui/icon/012000/012629_hr1.tex": "healers\\simpler buff icons for whm\\ui\\icon\\012000\\012629_hr1.tex",
+        "ui/icon/012000/012632_hr1.tex": "healers\\simpler buff icons for whm\\ui\\icon\\012000\\012632_hr1.tex",
+        "ui/icon/012000/012633_hr1.tex": "healers\\simpler buff icons for whm\\ui\\icon\\012000\\012633_hr1.tex",
+        "ui/icon/012000/012638_hr1.tex": "healers\\simpler buff icons for whm\\ui\\icon\\012000\\012638_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
