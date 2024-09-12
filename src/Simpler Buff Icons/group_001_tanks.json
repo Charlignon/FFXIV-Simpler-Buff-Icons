@@ -5,7 +5,7 @@
   "Type": "Multi",
   "DefaultSettings": 15,
   "Options": [
-     {
+    {
       "Name": "Simpler buff icons for DRK",
       "Description": "",
       "Priority": 1,
@@ -40,6 +40,19 @@
         "ui/icon/012000/012511_hr1.tex": "textures\\def_up.tex",
         "ui/icon/012000/012516_hr1.tex": "textures\\def_up.tex",
         "ui/icon/012000/012517_hr1.tex": "textures\\hot.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Simpler buff icons for WAR",
+      "Description": "",
+      "Priority": 1,
+      "Files": {
+        "ui/icon/012000/012557_hr1.tex": "textures\\def_up.tex",
+        "ui/icon/012000/012567_hr1.tex": "textures\\hot.tex",
+        "ui/icon/012000/012563_hr1.tex": "textures\\def_up.tex",
+        "ui/icon/012000/012564_hr1.tex": "textures\\shield.tex"
       },
       "FileSwaps": {},
       "Manipulations": []

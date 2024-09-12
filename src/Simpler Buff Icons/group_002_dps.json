@@ -69,8 +69,8 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/013000/013811_hr1.tex": "textures\\att_up.tex",,
-        "ui/icon/013000/013810_hr1.tex": "textures\\shield.tex",
+        "ui/icon/013000/013811_hr1.tex": "textures\\att_up.tex",
+        "ui/icon/013000/013810_hr1.tex": "textures\\shield.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
