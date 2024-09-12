@@ -1,0 +1,78 @@
+﻿{
+  "Version": 0,
+  "Name": "DEBUG MODE",
+  "Description": "Enable debug icons (should replace Peloton buff icon by the selected option)\nNeed a reload",
+  "Image": "",
+  "Priority": 3,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "Disabled",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "SHIELD",
+      "Description": "",
+      "Files": {
+        "ui/icon/013000/013908_hr1.tex": "debug mode\\shield\\ui\\icon\\013000\\013908_hr1.tex",
+        "ui/icon/010000/010101_hr1.tex": "debug mode\\shield\\ui\\icon\\010000\\010101_hr1.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "DEF_UP",
+      "Description": "",
+      "Files": {
+        "ui/icon/013000/013908_hr1.tex": "debug mode\\def_up\\ui\\icon\\013000\\013908_hr1.tex",
+        "ui/icon/010000/010101_hr1.tex": "debug mode\\def_up\\ui\\icon\\010000\\010101_hr1.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "HoT",
+      "Description": "",
+      "Files": {
+        "ui/icon/013000/013908_hr1.tex": "debug mode\\hot\\ui\\icon\\013000\\013908_hr1.tex",
+        "ui/icon/010000/010101_hr1.tex": "debug mode\\hot\\ui\\icon\\010000\\010101_hr1.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "DEF + HoT",
+      "Description": "",
+      "Files": {
+        "ui/icon/013000/013908_hr1.tex": "debug mode\\def + hot\\ui\\icon\\013000\\013908_hr1.tex",
+        "ui/icon/010000/010101_hr1.tex": "debug mode\\def + hot\\ui\\icon\\010000\\010101_hr1.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "ATT_UP",
+      "Description": "",
+      "Files": {
+        "ui/icon/013000/013908_hr1.tex": "debug mode\\att_up\\ui\\icon\\013000\\013908_hr1.tex",
+        "ui/icon/010000/010101_hr1.tex": "debug mode\\att_up\\ui\\icon\\010000\\010101_hr1.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "CRIT_UP",
+      "Description": "",
+      "Files": {
+        "ui/icon/013000/013908_hr1.tex": "debug mode\\crit_up\\ui\\icon\\013000\\013908_hr1.tex",
+        "ui/icon/010000/010101_hr1.tex": "debug mode\\crit_up\\ui\\icon\\010000\\010101_hr1.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    }
+  ]
+}

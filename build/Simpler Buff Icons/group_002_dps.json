@@ -1,6 +1,8 @@
 ﻿{
+  "Version": 0,
   "Name": "DPS",
   "Description": "Enabled or disable Simpler Icons for buff coming from DPS classes",
+  "Image": "",
   "Priority": 1,
   "Type": "Multi",
   "DefaultSettings": 255,
@@ -10,11 +12,11 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/012000/012610_hr1.tex": "dps\\simpler buff icons for brd\\ui\\icon\\012000\\012610_hr1.tex",
-        "ui/icon/012000/012603_hr1.tex": "dps\\simpler buff icons for brd\\ui\\icon\\012000\\012603_hr1.tex",
-        "ui/icon/012000/012605_hr1.tex": "dps\\simpler buff icons for brd\\ui\\icon\\012000\\012605_hr1.tex",
-        "ui/icon/012000/012615_hr1.tex": "dps\\simpler buff icons for brd\\ui\\icon\\012000\\012615_hr1.tex",
-        "ui/icon/012000/012624_hr1.tex": "dps\\simpler buff icons for brd\\ui\\icon\\012000\\012624_hr1.tex"
+        "ui/icon/012000/012610_hr1.tex": "DPS\\Simpler buff icons for BRD\\ui\\icon\\012000\\012610_hr1.tex",
+        "ui/icon/012000/012603_hr1.tex": "DPS\\Simpler buff icons for BRD\\ui\\icon\\012000\\012603_hr1.tex",
+        "ui/icon/012000/012605_hr1.tex": "DPS\\Simpler buff icons for BRD\\ui\\icon\\012000\\012605_hr1.tex",
+        "ui/icon/012000/012615_hr1.tex": "DPS\\Simpler buff icons for BRD\\ui\\icon\\012000\\012615_hr1.tex",
+        "ui/icon/012000/012624_hr1.tex": "DPS\\Simpler buff icons for BRD\\ui\\icon\\012000\\012624_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -24,11 +26,11 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/013000/013715_hr1.tex": "dps\\simpler buff icons for dnc\\ui\\icon\\013000\\013715_hr1.tex",
-        "ui/icon/013000/013714_hr1.tex": "dps\\simpler buff icons for dnc\\ui\\icon\\013000\\013714_hr1.tex",
-        "ui/icon/013000/013721_hr1.tex": "dps\\simpler buff icons for dnc\\ui\\icon\\013000\\013721_hr1.tex",
-        "ui/icon/013000/013709_hr1.tex": "dps\\simpler buff icons for dnc\\ui\\icon\\013000\\013709_hr1.tex",
-        "ui/icon/013000/013708_hr1.tex": "dps\\simpler buff icons for dnc\\ui\\icon\\013000\\013708_hr1.tex"
+        "ui/icon/013000/013715_hr1.tex": "DPS\\Simpler buff icons for DNC\\ui\\icon\\013000\\013715_hr1.tex",
+        "ui/icon/013000/013714_hr1.tex": "DPS\\Simpler buff icons for DNC\\ui\\icon\\013000\\013714_hr1.tex",
+        "ui/icon/013000/013721_hr1.tex": "DPS\\Simpler buff icons for DNC\\ui\\icon\\013000\\013721_hr1.tex",
+        "ui/icon/013000/013709_hr1.tex": "DPS\\Simpler buff icons for DNC\\ui\\icon\\013000\\013709_hr1.tex",
+        "ui/icon/013000/013708_hr1.tex": "DPS\\Simpler buff icons for DNC\\ui\\icon\\013000\\013708_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -38,8 +40,8 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/012000/012578_hr1.tex": "dps\\simpler buff icons for drg\\ui\\icon\\012000\\012578_hr1.tex",
-        "ui/icon/012000/012582_hr1.tex": "dps\\simpler buff icons for drg\\ui\\icon\\012000\\012582_hr1.tex"
+        "ui/icon/012000/012578_hr1.tex": "DPS\\Simpler buff icons for DRG\\ui\\icon\\012000\\012578_hr1.tex",
+        "ui/icon/012000/012582_hr1.tex": "DPS\\Simpler buff icons for DRG\\ui\\icon\\012000\\012582_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -49,7 +51,7 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/013000/013021_hr1.tex": "dps\\simpler buff icons for mch\\ui\\icon\\013000\\013021_hr1.tex"
+        "ui/icon/013000/013021_hr1.tex": "DPS\\Simpler buff icons for MCH\\ui\\icon\\013000\\013021_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -59,7 +61,18 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/012000/012532_hr1.tex": "dps\\simpler buff icons for mnk\\ui\\icon\\012000\\012532_hr1.tex"
+        "ui/icon/012000/012532_hr1.tex": "DPS\\Simpler buff icons for MNK\\ui\\icon\\012000\\012532_hr1.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Simpler buff icons for PCT",
+      "Description": "",
+      "Priority": 1,
+      "Files": {
+        "ui/icon/013000/013808_hr1.tex": "DPS\\Simpler buff icons for PCT\\ui\\icon\\013000\\013808_hr1.tex",
+        "ui/icon/013000/013810_hr1.tex": "DPS\\Simpler buff icons for PCT\\ui\\icon\\013000\\013810_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -69,7 +82,7 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/013000/013410_hr1.tex": "dps\\simpler buff icons for rdm\\ui\\icon\\013000\\013410_hr1.tex"
+        "ui/icon/013000/013410_hr1.tex": "DPS\\Simpler buff icons for RDM\\ui\\icon\\013000\\013410_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -79,8 +92,8 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/012000/012935_hr1.tex": "dps\\simpler buff icons for rpr\\ui\\icon\\012000\\012935_hr1.tex",
-        "ui/icon/012000/012936_hr1.tex": "dps\\simpler buff icons for rpr\\ui\\icon\\012000\\012936_hr1.tex"
+        "ui/icon/012000/012935_hr1.tex": "DPS\\Simpler buff icons for RPR\\ui\\icon\\012000\\012935_hr1.tex",
+        "ui/icon/012000/012936_hr1.tex": "DPS\\Simpler buff icons for RPR\\ui\\icon\\012000\\012936_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -90,9 +103,9 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/012000/012699_hr1.tex": "dps\\simpler buff icons for smn\\ui\\icon\\012000\\012699_hr1.tex",
-        "ui/icon/012000/012732_hr1.tex": "dps\\simpler buff icons for smn\\ui\\icon\\012000\\012732_hr1.tex",
-        "ui/icon/012000/012733_hr1.tex": "dps\\simpler buff icons for smn\\ui\\icon\\012000\\012733_hr1.tex"
+        "ui/icon/012000/012699_hr1.tex": "DPS\\Simpler buff icons for SMN\\ui\\icon\\012000\\012699_hr1.tex",
+        "ui/icon/012000/012732_hr1.tex": "DPS\\Simpler buff icons for SMN\\ui\\icon\\012000\\012732_hr1.tex",
+        "ui/icon/012000/012733_hr1.tex": "DPS\\Simpler buff icons for SMN\\ui\\icon\\012000\\012733_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []

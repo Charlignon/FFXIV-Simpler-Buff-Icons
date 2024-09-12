@@ -18,8 +18,8 @@
         "ui/icon/013000/013255_hr1.tex": "textures\\shield.tex",
         "ui/icon/013000/013262_hr1.tex": "textures\\def_up.tex",
         "ui/icon/013000/013250_hr1.tex": "textures\\shield.tex",
-        "ui/icon/000000/000265_hr1.tex": "textures\\hot.tex",
-        "ui/icon/000000/000267_hr1.tex": "textures\\def_up.tex"
+        "ui/icon/012000/012265_hr1.tex": "textures\\hot.tex",
+        "ui/icon/012000/012267_hr1.tex": "textures\\def_up.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -57,6 +57,7 @@
         "ui/icon/012000/012970_hr1.tex": "textures\\hot.tex",
         "ui/icon/012000/012958_hr1.tex": "textures\\shield.tex",
         "ui/icon/012000/012971_hr1.tex": "textures\\def_up.tex",
+        "ui/icon/012000/012972_hr1.tex": "textures\\shield.tex",
         "ui/icon/012000/012959_hr1.tex": "textures\\shield.tex",
         "ui/icon/012000/012975_hr1.tex": "textures\\hot.tex",
         "ui/icon/012000/012952_hr1.tex": "textures\\hot.tex"
@@ -75,9 +76,9 @@
         "ui/icon/012000/012632_hr1.tex": "textures\\shield.tex",
         "ui/icon/012000/012633_hr1.tex": "textures\\def_up.tex",
         "ui/icon/012000/012638_hr1.tex": "textures\\def_up.tex",
-        "ui/icon/000000/000639_hr1.tex": "textures\\hot.tex",
-        "ui/icon/000000/000641_hr1.tex": "textures\\shield.tex",
-        "ui/icon/000000/000642_hr1.tex": "textures\\hot.tex"
+        "ui/icon/012000/012639_hr1.tex": "textures\\hot.tex",
+        "ui/icon/012000/012641_hr1.tex": "textures\\shield.tex",
+        "ui/icon/012000/012642_hr1.tex": "textures\\hot.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
