@@ -3,6 +3,7 @@
   "Name": "Tanks",
   "Description": "Enabled or disable Simpler Icons for buff coming from Tank classes",
   "Image": "",
+  "Page": 0,
   "Priority": 0,
   "Type": "Multi",
   "DefaultSettings": 15,
@@ -12,8 +13,11 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/013000/013123_hr1.tex": "Tanks\\Simpler buff icons for DRK\\ui\\icon\\013000\\013123_hr1.tex",
-        "ui/icon/013000/013118_hr1.tex": "Tanks\\Simpler buff icons for DRK\\ui\\icon\\013000\\013118_hr1.tex"
+        "ui/icon/213000/213123_hr1.tex": "tanks\\simpler buff icons for drk\\ui\\icon\\213000\\213123_hr1.tex",
+        "ui/icon/213000/213118_hr1.tex": "tanks\\simpler buff icons for drk\\ui\\icon\\213000\\213118_hr1.tex",
+        "ui/icon/213000/213122_hr1.tex": "tanks\\simpler buff icons for drk\\ui\\icon\\213000\\213122_hr1.tex",
+        "ui/icon/213000/213115_hr1.tex": "tanks\\simpler buff icons for drk\\ui\\icon\\213000\\213115_hr1.tex",
+        "ui/icon/213000/213116_hr1.tex": "tanks\\simpler buff icons for drk\\ui\\icon\\213000\\213116_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -23,11 +27,13 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/013000/013605_hr1.tex": "Tanks\\Simpler buff icons for GNB\\ui\\icon\\013000\\013605_hr1.tex",
-        "ui/icon/013000/013614_hr1.tex": "Tanks\\Simpler buff icons for GNB\\ui\\icon\\013000\\013614_hr1.tex",
-        "ui/icon/013000/013610_hr1.tex": "Tanks\\Simpler buff icons for GNB\\ui\\icon\\013000\\013610_hr1.tex",
-        "ui/icon/013000/013615_hr1.tex": "Tanks\\Simpler buff icons for GNB\\ui\\icon\\013000\\013615_hr1.tex",
-        "ui/icon/013000/013616_hr1.tex": "Tanks\\Simpler buff icons for GNB\\ui\\icon\\013000\\013616_hr1.tex"
+        "ui/icon/213000/213605_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\213000\\213605_hr1.tex",
+        "ui/icon/213000/213609_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\213000\\213609_hr1.tex",
+        "ui/icon/213000/213614_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\213000\\213614_hr1.tex",
+        "ui/icon/213000/213610_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\213000\\213610_hr1.tex",
+        "ui/icon/213000/213615_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\213000\\213615_hr1.tex",
+        "ui/icon/213000/213616_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\213000\\213616_hr1.tex",
+        "ui/icon/213000/213606_hr1.tex": "tanks\\simpler buff icons for gnb\\ui\\icon\\213000\\213606_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -37,11 +43,12 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/012000/012509_hr1.tex": "Tanks\\Simpler buff icons for PLD\\ui\\icon\\012000\\012509_hr1.tex",
-        "ui/icon/012000/012512_hr1.tex": "Tanks\\Simpler buff icons for PLD\\ui\\icon\\012000\\012512_hr1.tex",
-        "ui/icon/012000/012511_hr1.tex": "Tanks\\Simpler buff icons for PLD\\ui\\icon\\012000\\012511_hr1.tex",
-        "ui/icon/012000/012516_hr1.tex": "Tanks\\Simpler buff icons for PLD\\ui\\icon\\012000\\012516_hr1.tex",
-        "ui/icon/012000/012517_hr1.tex": "Tanks\\Simpler buff icons for PLD\\ui\\icon\\012000\\012517_hr1.tex"
+        "ui/icon/212000/212509_hr1.tex": "tanks\\simpler buff icons for pld\\ui\\icon\\212000\\212509_hr1.tex",
+        "ui/icon/212000/212512_hr1.tex": "tanks\\simpler buff icons for pld\\ui\\icon\\212000\\212512_hr1.tex",
+        "ui/icon/212000/212511_hr1.tex": "tanks\\simpler buff icons for pld\\ui\\icon\\212000\\212511_hr1.tex",
+        "ui/icon/212000/212516_hr1.tex": "tanks\\simpler buff icons for pld\\ui\\icon\\212000\\212516_hr1.tex",
+        "ui/icon/212000/212517_hr1.tex": "tanks\\simpler buff icons for pld\\ui\\icon\\212000\\212517_hr1.tex",
+        "ui/icon/212000/212504_hr1.tex": "tanks\\simpler buff icons for pld\\ui\\icon\\212000\\212504_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -51,10 +58,11 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/012000/012557_hr1.tex": "Tanks\\Simpler buff icons for WAR\\ui\\icon\\012000\\012557_hr1.tex",
-        "ui/icon/012000/012567_hr1.tex": "Tanks\\Simpler buff icons for WAR\\ui\\icon\\012000\\012567_hr1.tex",
-        "ui/icon/012000/012563_hr1.tex": "Tanks\\Simpler buff icons for WAR\\ui\\icon\\012000\\012563_hr1.tex",
-        "ui/icon/012000/012564_hr1.tex": "Tanks\\Simpler buff icons for WAR\\ui\\icon\\012000\\012564_hr1.tex"
+        "ui/icon/212000/212557_hr1.tex": "tanks\\simpler buff icons for war\\ui\\icon\\212000\\212557_hr1.tex",
+        "ui/icon/212000/212567_hr1.tex": "tanks\\simpler buff icons for war\\ui\\icon\\212000\\212567_hr1.tex",
+        "ui/icon/212000/212563_hr1.tex": "tanks\\simpler buff icons for war\\ui\\icon\\212000\\212563_hr1.tex",
+        "ui/icon/212000/212564_hr1.tex": "tanks\\simpler buff icons for war\\ui\\icon\\212000\\212564_hr1.tex",
+        "ui/icon/210000/210266_hr1.tex": "tanks\\simpler buff icons for war\\ui\\icon\\210000\\210266_hr1.tex"
       },
       "FileSwaps": {},
       "Manipulations": []

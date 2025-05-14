@@ -4,7 +4,7 @@
   "Author": "Charlignon",
   "Description": "Random raid buff popped in your status bar and you don't know what it is, but you are too lazy to learn every single buff from all classes ? (looking at you SCH)\nThis mod replace all unique buff icons by generic, easy to understand status icons :)\nIt is recommended that you disable it for classes you play, since you will learn them anyway\n---\nHOW TO USE\n\n- Check all classes for which you don't know the spells/icons\n- Uncheck all classes for which you want to keep the game icons. (Recommended for classes you play)\n- You won't see the changes until the UI is reloaded. To do that, either disconnect and login again, or talk to the Esthetician in your room.",
   "Image": "",
-  "Version": "0.4",
+  "Version": "0.5",
   "Website": "https://www.xivmodarchive.com/modid/99380",
   "ModTags": [
     "ui",

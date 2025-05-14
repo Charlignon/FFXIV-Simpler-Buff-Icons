@@ -10,11 +10,11 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/012000/012610_hr1.tex": "textures\\crit_up.tex",
-        "ui/icon/012000/012603_hr1.tex": "textures\\att_up.tex",
-        "ui/icon/012000/012605_hr1.tex": "textures\\crit_up.tex",
-        "ui/icon/012000/012615_hr1.tex": "textures\\def_up.tex",
-        "ui/icon/012000/012624_hr1.tex": "textures\\att_up.tex"
+        "ui/icon/212000/212610_hr1.tex": "textures\\crit_up.tex",
+        "ui/icon/212000/212603_hr1.tex": "textures\\att_up.tex",
+        "ui/icon/212000/212605_hr1.tex": "textures\\crit_up.tex",
+        "ui/icon/212000/212615_hr1.tex": "textures\\def_up.tex",
+        "ui/icon/212000/212624_hr1.tex": "textures\\att_up.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -24,11 +24,11 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/013000/013715_hr1.tex": "textures\\def_up.tex",
-        "ui/icon/013000/013714_hr1.tex": "textures\\att_up.tex",
-        "ui/icon/013000/013721_hr1.tex": "textures\\shield.tex",
-        "ui/icon/013000/013709_hr1.tex": "textures\\att_up.tex",
-        "ui/icon/013000/013708_hr1.tex": "textures\\att_up.tex"
+        "ui/icon/213000/213715_hr1.tex": "textures\\def_up.tex",
+        "ui/icon/213000/213714_hr1.tex": "textures\\crit_up.tex",
+        "ui/icon/213000/213721_hr1.tex": "textures\\shield.tex",
+        "ui/icon/213000/213709_hr1.tex": "textures\\att_up.tex",
+        "ui/icon/213000/213708_hr1.tex": "textures\\att_up.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -38,8 +38,8 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/012000/012578_hr1.tex": "textures\\crit_up.tex",
-        "ui/icon/012000/012582_hr1.tex": "textures\\att_up.tex"
+        "ui/icon/212000/212578_hr1.tex": "textures\\crit_up.tex",
+        "ui/icon/212000/212582_hr1.tex": "textures\\att_up.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -49,7 +49,7 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/013000/013021_hr1.tex": "textures\\def_up.tex"
+        "ui/icon/213000/213021_hr1.tex": "textures\\def_up.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -59,7 +59,7 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/012000/012532_hr1.tex": "textures\\att_up.tex"
+        "ui/icon/212000/212532_hr1.tex": "textures\\att_up.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -69,8 +69,8 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/013000/013808_hr1.tex": "textures\\att_up.tex",
-        "ui/icon/013000/013810_hr1.tex": "textures\\shield.tex"
+        "ui/icon/213000/213808_hr1.tex": "textures\\att_up.tex",
+        "ui/icon/213000/213810_hr1.tex": "textures\\shield.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -80,7 +80,8 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/013000/013410_hr1.tex": "textures\\att_up.tex"
+        "ui/icon/213000/213410_hr1.tex": "textures\\att_up.tex",
+        "ui/icon/213000/213408_hr1.tex": "textures\\mdef_up.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -90,8 +91,8 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/012000/012935_hr1.tex": "textures\\hot.tex",
-        "ui/icon/012000/012936_hr1.tex": "textures\\att_up.tex"
+        "ui/icon/212000/212935_hr1.tex": "textures\\hot.tex",
+        "ui/icon/212000/212936_hr1.tex": "textures\\att_up.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
@@ -101,9 +102,9 @@
       "Description": "",
       "Priority": 1,
       "Files": {
-        "ui/icon/012000/012699_hr1.tex": "textures\\att_up.tex",
-        "ui/icon/012000/012732_hr1.tex": "textures\\hot.tex",
-        "ui/icon/012000/012733_hr1.tex": "textures\\hot.tex"
+        "ui/icon/212000/212699_hr1.tex": "textures\\att_up.tex",
+        "ui/icon/212000/212732_hr1.tex": "textures\\hot.tex",
+        "ui/icon/212000/212733_hr1.tex": "textures\\hot.tex"
       },
       "FileSwaps": {},
       "Manipulations": []
