@@ -8,7 +8,8 @@ Simpler Buff Icons is a mod that replace common raid buff effect icons (such as 
 ![Healing over time](https://github.com/charlignon/FFXIV-Simpler-Buff-Icons/blob/main/src/assets/png/HoT.png) 
 ![Shield](https://github.com/charlignon/FFXIV-Simpler-Buff-Icons/blob/main/src/assets/png/SHIELD.png)
 ![Defense up](https://github.com/charlignon/FFXIV-Simpler-Buff-Icons/blob/main/src/assets/png/DEF_UP.png) 
-
+![Magic defense up](https://github.com/charlignon/FFXIV-Simpler-Buff-Icons/blob/main/src/assets/png/MDEF_UP.png)
+![Tank invuln](https://github.com/charlignon/FFXIV-Simpler-Buff-Icons/blob/main/src/assets/png/INVULN.png) 
 
 ## Requirements
 
